@@ -2,8 +2,8 @@
 
 ## Learning Goals
 
-- Find elements using a simple condition with `Array.prototype.indexOf()`
-- Find elements using more complex conditions with `Array.prototype.find()`
+- Find elements using a simple condition with `Array.prototype.indexOf()`.
+- Find elements using more complex conditions with `Array.prototype.find()`.
 
 ## Introduction
 
